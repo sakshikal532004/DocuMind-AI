@@ -1,17 +1,21 @@
 streamlit
 google-genai
-chromadb
-sentence-transformers
-pypdf
 python-dotenv
-langchain-community
-langchain-huggingface
+
+chromadb==0.5.5
+
+sentence-transformers==3.0.1
+transformers==4.44.2
+
+torch==2.3.1
+torchvision==0.18.1
+
+pypdf
 fpdf2
 gtts
 streamlit-mic-recorder
 ollama
 
-chromadb==0.5.5
 protobuf==3.20.3
 opentelemetry-api==1.27.0
 opentelemetry-sdk==1.27.0
