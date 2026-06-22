@@ -2,7 +2,7 @@
 
 > AI-powered multi-PDF chat assistant with memory, voice interaction, and RAG-based document retrieval using LangChain, Gemini, Ollama, and ChromaDB.
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
 ![Gemini](https://img.shields.io/badge/Gemini-AI-orange)
