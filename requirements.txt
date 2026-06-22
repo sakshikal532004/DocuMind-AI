@@ -1,0 +1,12 @@
+streamlit
+google-genai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+langchain-community
+langchain-huggingface
+fpdf2
+gtts
+streamlit-mic-recorder
+ollama
